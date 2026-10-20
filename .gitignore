@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.venv/
+*.log
+*.bak
+*.zip
+*.swp
+.DS_Store
+Thumbs.db
+/WTF/
+/SavedVariables/
+/Cache/
+/exports/
+/backups/
+/KrakenBuffAcknowledgement.lua

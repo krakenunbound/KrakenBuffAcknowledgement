@@ -1,0 +1,20 @@
+## Interface: 16001
+## Title: Kraken Buff Acknowledgement
+## Notes: Kraken Addons - thanks players for meaningful buffs in character
+## IconTexture: Interface\Icons\Spell_Holy_WordFortitude
+## Author: The Kraken
+## Version: 2.3.19
+## SavedVariables: DB_BuffResponder
+## Category: Chat
+## AllowLoadGameType: camelot
+## AddonCompartmentFunc: KBA_OnAddonCompartmentClick
+## DefaultState: enabled
+
+Timing.lua
+Core.lua
+Static.lua
+Persona.lua
+Control.lua
+Options.lua
+DiagnosticWindow.lua
+View.lua
